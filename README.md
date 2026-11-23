@@ -1,1 +1,4 @@
-# Algoritmos-e-L-gica-de-Programa-o-2---Listas-de-exerc-cios
+Algoritmos e Lógica de Programação 2
+listas de exercícios
+
+Estudante = Evellyn Borges Lopes
